@@ -50,10 +50,20 @@ public class MutableString {
         System.out.println(sb.reverse());
 
 
-        int [] a = new int[5];
-//        a[0]=5;
-//        a[1]=6;
-        System.out.println(a[4]);
+//        int [] a = new int[5];
+////        a[0]=5;
+////        a[1]=6;
+//        System.out.println(a[4]);
+
+        String s1 = "mohan";
+        StringBuilder s2 = new StringBuilder(s1);
+        s2.reverse();
+        System.out.println(s2);
+
+        short a = 10;
+        short b = 5;
+        a=(short)(a+b);
+        System.out.println(a);
 
 
 
