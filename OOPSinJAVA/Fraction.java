@@ -2,6 +2,8 @@ package OOPSinJAVA;
 
 public class Fraction {
 
+
+
     public static class  fraction{
         int num ;
         int den;
@@ -11,7 +13,6 @@ public class Fraction {
 
         }
 
-        public 
 
 
 
@@ -20,11 +21,12 @@ public class Fraction {
         fraction f1 = new fraction(7,21);
         System.out.println(f1.num+"/"+f1.den);
 
-        f1.simplify();
+//        f1.simplify();
         System.out.println(f1.num+"/"+f1.den);
 
 //        fraction f2 = new fraction(3,7);
 //        System.out.println(f2.num+"/"+f2.den);
+
 
 
 
