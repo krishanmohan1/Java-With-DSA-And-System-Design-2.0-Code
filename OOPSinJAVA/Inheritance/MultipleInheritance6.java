@@ -1,5 +1,5 @@
 package OOPSinJAVA.Inheritance;
-
+        // multiple Inheritance
 class Parent1{
     int age = 18;
 }

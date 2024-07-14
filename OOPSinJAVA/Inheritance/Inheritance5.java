@@ -10,15 +10,13 @@ class Aeroplane{
 
 
 class CargoPlane extends Aeroplane{
-    // doing over @override
+    // doing here @Override
     public void fly(){
         System.out.println("CargoPlane fly at lower height ");
     }
-    public void carryGood(){
+    public void carryGood(){  // specialized function.
         System.out.println("cargoplane carry goods");
     }
-
-
 }
 
 

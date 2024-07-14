@@ -1,5 +1,7 @@
 package OOPSinJAVA.Inheritance;
 
+        // Execution Of Constrctor During Inheritance
+
 class Pack1{
     int x , y;
     public Pack1(){

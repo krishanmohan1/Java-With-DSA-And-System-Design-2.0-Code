@@ -1,6 +1,6 @@
 package OOPSinJAVA.Inheritance;
 
-        // Multi-Level Inheritance
+        // Hierarchial Inheritance
 
 class Animal{  // this animal class extends Inbuilt class Object
     void sleep(){
@@ -10,7 +10,7 @@ class Animal{  // this animal class extends Inbuilt class Object
 
 class Tiger extends Animal{
                             /*
-                            As a developer i can see the code of parente class here
+                            As a developer i can't see the code of parent class code  here
                             but in the backend , code of parent class is inherited here,
                             but the private member and constructor will not get inherited.
                              */
