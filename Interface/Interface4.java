@@ -11,7 +11,7 @@ interface A2{
     }
     static void abc(){      // it is static , it will be called using interface only , like in case of class, it will not override
         System.out.println("in abc..");
-    }
+    }       // it will not be inherited/implemented
 }
 class B2 implements A2{
     public void disp(){

@@ -9,7 +9,7 @@ interface X{
     void abc();
 }
 
-class B implements A1,X{  // here is example of multiple interfaces
+class B implements A1,X{  // here is example of multiple Inheritance of interfaces
     public void show(){
         System.out.println("In show..");
     }

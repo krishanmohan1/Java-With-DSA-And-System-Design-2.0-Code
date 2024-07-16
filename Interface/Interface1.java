@@ -1,8 +1,8 @@
 package Interface;
 
 interface A{
-    int num=21;  // here i have assign value because it is static.(Variable in Interface is publis static and final)
-    void show();   // this method is abstract by default , i cannot give its body or define it
+    int num=21;  // here i have assign value because it is static.(Variable in Interface is public, static and final)
+    void show();   // this method is abstract by default , I cannot give its body or define it
 }
 
 public class Interface1 {
