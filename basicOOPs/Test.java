@@ -3,7 +3,7 @@ package basicOOPs;
 public class Test {
 
     int a;
-    String Laned;
+    String name;
 
     public static void main(String[] args) {
 

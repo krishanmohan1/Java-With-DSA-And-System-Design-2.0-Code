@@ -13,7 +13,7 @@ public class IteratorAndlistIterator {
         al.add(100);
         System.out.println(al);
 
-        // for loop
+//         for loop
 //        for(int i = 0 ; i < al.size();i++){
 //          Object o =   al.get(i);
 //            System.out.println(o);

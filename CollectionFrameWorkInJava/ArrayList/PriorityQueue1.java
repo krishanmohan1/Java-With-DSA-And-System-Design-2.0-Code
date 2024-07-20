@@ -8,7 +8,7 @@ import java.util.*;
 public class PriorityQueue1 {
     public static void main(String[] args) {
 
-        PriorityQueue pq1 = new PriorityQueue();  // it stores the data as mini heap , that is complete biinary tree conncept
+        PriorityQueue pq1 = new PriorityQueue();  // it stores the data as mini heap , that is complete binary tree concept
                                                     // in the backend.
 
         pq1.add(100);

@@ -50,7 +50,7 @@ public class ArrayList1 {
          al4.add(2);
          al4.add(4);
 
-        System.out.println(al4);  // Order if insertion is preserved.
+        System.out.println(al4);  // Order of insertion is preserved.
         System.out.println("****************************************************");
         al4.add(4);  // dublicates is allowed
         System.out.println(al4) ;
