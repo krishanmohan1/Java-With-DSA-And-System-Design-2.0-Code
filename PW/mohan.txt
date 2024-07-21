@@ -1,8 +1,7 @@
-Java PW skillJava PW skillMOhan BAbaJava PW skill
-MOhan BAba
 a
-ABCD
-Java PW skill
-MOhan BAba
-a
-ABCD
+This is the println() method to write the line by line 
+it is the number 975.05
+Aa
+This is the println() method to write the line by line 
+it is the number 975.05
+A

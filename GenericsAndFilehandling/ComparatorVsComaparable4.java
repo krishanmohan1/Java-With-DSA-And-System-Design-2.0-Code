@@ -38,7 +38,7 @@ import java.util.*;
 //        }
 //    }
 //}
-public class ComparatorVsComaparable {
+public class ComparatorVsComaparable4 {
 
     public static void main(String[] args) {
 
@@ -54,7 +54,7 @@ public class ComparatorVsComaparable {
         list.add(st3);
 
         System.out.println(list);
-//        Collections.sort(list);         // it give error , due to complex object, i need to tell them on which basis do i need to sort it .
+//        Collections.sort(list);         // it give error , due to complex object, i need to tell them on what basis do i need to sort it .
 //        Alpha a = new Alpha();
 
         Comparator<Student> com = (Student a , Student b) ->  // lamda expression use kiye hai.

@@ -2,7 +2,7 @@ package FilehandlingOrInputOutput;
 
 import java.io.*;
 
-public class ReadingFileUsingFileReader {
+public class ReadingFileUsingFileReader5 {
     public static void main(String[] args)  throws IOException{
 
         File dir = new File("PW");  // path always will be in the double quort

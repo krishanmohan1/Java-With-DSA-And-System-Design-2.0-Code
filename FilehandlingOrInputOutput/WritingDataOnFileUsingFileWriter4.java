@@ -4,8 +4,8 @@ import java.io.*;
         // To write some thing on file we use file writter .
 
 
-public class WritingDataOnFileUsingFileWriter  {
-    public static void main(String[] args) throws IOException{
+public class WritingDataOnFileUsingFileWriter4 {
+    public static void main(String[] args) throws IOException {
 
         File dir = new File("PW");
         File file = new File(dir,"mohan.txt");

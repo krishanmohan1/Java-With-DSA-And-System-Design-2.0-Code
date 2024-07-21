@@ -37,15 +37,7 @@ class Student implements Comparable<Student>{
     }
 }
 
-class Alpha implements Comparator<Student> {
-    public int compare(Student a , Student b){  // ye compare method , Comparator me inbuilt hoga hai, esko ye orverride kar rahe hai.
-        if(a.marks>b.marks){        // ye interface me sirf ek he abstract method hai esko hu lambda method se likha sakte hai
-            return 1;  // eska internal meaning hua , swap kara
-        }else{
-            return -1;  // esme internal meaning hua swap nhi karna
-        }
-    }
-}
+
 
 
 
